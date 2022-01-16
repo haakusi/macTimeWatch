@@ -1,6 +1,6 @@
 # macTimeWatch.exe
-You can use to stop watch functions in macbook .exe program
-![Guide/Devlog at Youtube link](https://youtu.be/NJMA1VvorcM) : speak by korean
+You can use to stop watch functions in macbook .exe program <br>
+![Guide/Devlog timmer.exe Youtube link:]()(https://youtu.be/NJMA1VvorcM): speak by korean
 
 This project makes by Twitch when I played the live broadcasting with codings.
 
@@ -14,4 +14,4 @@ Look at this..
 
 Thanks.
 
-![timeWatch_macbook_exe](https://user-images.githubusercontent.com/70050105/149654226-e985f443-f9f1-4a85-ab8f-4482eba2baf9.png)
+
