@@ -1,5 +1,6 @@
 # macTimeWatch.exe
 You can use to stop watch functions in macbook .exe program
+![Guide/Devlog at Youtube link](https://youtu.be/NJMA1VvorcM) : speak by korean
 
 This project makes by Twitch when I played the live broadcasting with codings.
 
