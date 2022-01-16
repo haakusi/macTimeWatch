@@ -13,4 +13,4 @@ Look at this..
 
 Thanks.
 
-![timewatch_macbook](https://user-images.githubusercontent.com/70050105/149654127-f8b968a3-427b-4169-aa02-89f3e2995c9e.png)
+![timeWatch_macbook_exe](https://user-images.githubusercontent.com/70050105/149654226-e985f443-f9f1-4a85-ab8f-4482eba2baf9.png)
